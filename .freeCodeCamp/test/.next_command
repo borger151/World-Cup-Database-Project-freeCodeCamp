@@ -104,3 +104,12 @@ psql --username=freecodecamp --dbname=postgres
 psql --username=freecodecamp --dbname=postgres
 psql --username=freecodecamp --dbname=postgres
 psql --username=freecodecamp --dbname=postgres
+git remote set-url origin https://github.com/borger151/World-Cup_Database-Project-freeCodeCamp.git
+git branch -M main
+git push -u origin main
+git remote set-url origin https://github.com/borger151/Worl
+git remote set-url origin https://github.com/borger151/World-Cup-Database-Project-freeCodeCamp.git
+git branch -M main
+git push -u origin main
+git checkout -b World-Cup-Database-Solution
+git add .
